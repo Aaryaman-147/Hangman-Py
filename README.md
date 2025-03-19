@@ -6,3 +6,10 @@ It is a simple classic word-guessing game built using Python where players try t
 - Dynamic Word Bank(predefined word list)
 - Hint Option
 - Visual representation of ASCII art
+
+## How to Play
+
+- Start the game by running the script on your device.
+- Choose a difficulty level.
+- Type a letter to guess; If the letter is in the word, it fills in the correct spot(s), but if it is wrong, you lose an attempt.
+- If you're stuck, you can use a hint to reveal a letter.
